@@ -20,18 +20,20 @@ body {
 }
 
 .calculadora {
-    width: 264px;
+    width: 400px;
     height: 360px;
-    background-image: url('/img/calculadora.png');
+    background-image: url('/img/pokemon.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
     margin: 0 auto;
-    position: relative;
 }
 
 h2 {
     position: absolute;
     font-size: 16px;
     font-weight: bold;
-    top: 114px;
+    top: 80px;
+    color: #ffffff;
     left: calc(50% - 72.5px);
     width: 145px;
     text-align: center;
