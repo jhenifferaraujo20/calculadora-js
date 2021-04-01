@@ -30,9 +30,9 @@ body {
 
 h2 {
     position: absolute;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
-    top: 80px;
+    top: 400px;
     color: #ffffff;
     left: calc(50% - 72.5px);
     width: 145px;
